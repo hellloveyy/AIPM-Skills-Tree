@@ -19,4 +19,4 @@ AI 产品经理需要学会一些算法上的概念名词、以及边界，来�
 
 所以才想梳理一下目前自己接触或者学习过的一些知识，梳理成🌲，后面会持续更新。
 
-语雀实时更新链接：[AI 产品技能树]( https://www.yuque.com/gbyai/enltfn/hmzh5f3msehsvokb?singleDoc# 《AIPM_Skills》)
+语雀实时更新链接：https://www.yuque.com/gbyai/enltfn/hmzh5f3msehsvokb?singleDoc# 《AIPM_Skills》
