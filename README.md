@@ -27,4 +27,4 @@ AI 产品经理需要学会一些算法上的概念名词、以及边界，来�
 
 语雀实时更新链接：https://www.yuque.com/gbyai/enltfn/hmzh5f3msehsvokb?singleDoc# 《AIPM_Skills》
 
-同步个人站点 https://gby.ai
+同步个人站点 https://gby.ai/aipm-skills/
