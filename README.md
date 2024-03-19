@@ -22,6 +22,9 @@ AI 产品经理需要学会一些算法上的概念名词、以及边界，来�
 
 所以才想梳理一下目前自己接触或者学习过的一些知识，梳理成🌲，后面会持续更新。任何问题请提 Issues。
 
+![AIPM_Skills](https://github.com/hellloveyy/AIPM-Skills-Tree/assets/14924943/6cc0a132-e040-4c62-8144-232e2a032eed)
+大纲在此！无法打开导出，文件太大了😄
+
 语雀实时更新链接：https://www.yuque.com/gbyai/enltfn/hmzh5f3msehsvokb?singleDoc# 《AIPM_Skills》
 
 同步个人站点 https://gby.ai
